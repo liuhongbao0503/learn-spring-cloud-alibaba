@@ -1,4 +1,4 @@
-package com.lhb.provider;
+package com.lhb.provider.simplestprovider;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
